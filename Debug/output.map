@@ -1,0 +1,1234 @@
+Archive member included because of file (symbol)
+
+C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+                              src/main.o (operator new(unsigned int))
+C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+                              src/main.o (Mutex::Mutex())
+C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                              src/main.o (xTaskGenericCreate)
+C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+                              src/main.o (xQueueCreateMutex)
+C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                              C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o) (pxPortInitialiseStack)
+C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+                              C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o) (vListInitialise)
+C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+                              C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o) (pvPortMalloc)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (exit)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_init_array)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+                              C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o) (memcpy)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (memset)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (atexit)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .text          0x00000000       0x74 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .text          0x00000000       0x14 startup/startup_stm32.o
+ .data          0x00000000        0x0 startup/startup_stm32.o
+ .bss           0x00000000        0x0 startup/startup_stm32.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .text          0x00000000        0x0 startup/system_stm32f30x.o
+ .bss           0x00000000        0x0 startup/system_stm32f30x.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xd4 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 src/CApplication.o
+ .text          0x00000000        0x0 src/CApplication.o
+ .data          0x00000000        0x0 src/CApplication.o
+ .bss           0x00000000        0x0 src/CApplication.o
+ .text._ZN12CApplicationC2Ev
+                0x00000000       0x24 src/CApplication.o
+ .text._ZN12CApplicationD2Ev
+                0x00000000       0x2c src/CApplication.o
+ .text._ZN12CApplicationD0Ev
+                0x00000000       0x20 src/CApplication.o
+ .rodata        0x00000000       0x10 src/CApplication.o
+ .debug_info    0x00000000      0x17d src/CApplication.o
+ .debug_abbrev  0x00000000      0x131 src/CApplication.o
+ .debug_aranges
+                0x00000000       0x30 src/CApplication.o
+ .debug_ranges  0x00000000       0x20 src/CApplication.o
+ .debug_macro   0x00000000       0x1b src/CApplication.o
+ .debug_macro   0x00000000      0x8aa src/CApplication.o
+ .debug_line    0x00000000       0x87 src/CApplication.o
+ .debug_str     0x00000000     0x25bb src/CApplication.o
+ .comment       0x00000000       0x71 src/CApplication.o
+ .debug_frame   0x00000000       0x80 src/CApplication.o
+ .ARM.attributes
+                0x00000000       0x33 src/CApplication.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .debug_macro   0x00000000      0x8aa src/main.o
+ .debug_macro   0x00000000       0x22 src/main.o
+ .debug_macro   0x00000000       0x7a src/main.o
+ .debug_macro   0x00000000       0x3b src/main.o
+ .debug_macro   0x00000000       0x1c src/main.o
+ .debug_macro   0x00000000      0x1f7 src/main.o
+ .debug_macro   0x00000000       0x2d src/main.o
+ .debug_macro   0x00000000       0x26 src/main.o
+ .debug_macro   0x00000000     0x76cc src/main.o
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .text          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .data          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .bss           0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .text._ZN9__gnu_cxx27__verbose_terminate_handlerEv
+                0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .text._Znaj    0x00000000       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .text._ZdaPv   0x00000000       0x14 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000       0x35 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000      0x10e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000       0x4a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000       0x43 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x00000000      0x180 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .text          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .data          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .bss           0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .text._ZN5Mutex4LockEv
+                0x00000000       0x2c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .text._ZN5Mutex6UnlockEv
+                0x00000000       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000      0x8fe C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0x44 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000      0x1f7 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0xe1 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000      0x15d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0xd2 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0x1f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000      0x3ed C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0xb0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x00000000       0x7f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .data          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskDelete
+                0x00000000       0xd4 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskDelay
+                0x00000000       0x74 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x38 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskPrioritySet
+                0x00000000      0x134 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskSuspend
+                0x00000000       0xe0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x5c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskResume
+                0x00000000       0x90 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.xTaskResumeFromISR
+                0x00000000       0xac C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskEndScheduler
+                0x00000000       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x24 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.uxTaskGetSystemState
+                0x00000000       0xf8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x90 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0x94 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.uxTaskGetTaskNumber
+                0x00000000       0x2c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskSetTaskNumber
+                0x00000000       0x24 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvListTaskWithinSingleList
+                0x00000000      0x118 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x38 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.ulTaskNotifyTake
+                0x00000000       0xd8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.xTaskNotifyWait
+                0x00000000       0xfc C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.xTaskGenericNotify
+                0x00000000      0x100 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x128 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskNotifyGiveFromISR
+                0x00000000       0xc0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.xTaskNotifyStateClear
+                0x00000000       0x50 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x35 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x4a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000      0x180 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x29 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000      0x1f7 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0xe1 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000      0x15d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0xd2 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x1f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000      0x3ed C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0xc0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x00000000       0x9a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .data          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .bss           0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueGenericReset
+                0x00000000       0xa4 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueGenericCreate
+                0x00000000       0x80 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x4c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x54 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x2c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueGenericSendFromISR
+                0x00000000       0x88 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueGiveFromISR
+                0x00000000       0x80 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueReceiveFromISR
+                0x00000000       0x84 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueuePeekFromISR
+                0x00000000       0x4c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.uxQueueGetQueueNumber
+                0x00000000       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.vQueueSetQueueNumber
+                0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.ucQueueGetQueueType
+                0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x28 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x2c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x35 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x9c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000      0x10e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x7f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x4a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x43 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000      0x180 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000      0x29d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x29 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x35 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000      0x1f7 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0xe1 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000      0x15d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0xd2 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x1f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000      0x3ed C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0xc0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0x9a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x00000000       0xb0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .text          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .bss           0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .text.vPortEndScheduler
+                0x00000000        0xc C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0x44 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000      0x1f7 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0xe1 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000      0x15d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0xd2 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0x1f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000      0x3ed C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0xc0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x00000000       0x9a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .text          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .data          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .bss           0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x35 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x9c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000      0x10e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x7f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x4a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x43 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000      0x180 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000      0x29d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x29 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000      0x1f7 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0xe1 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000      0x15d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0xd2 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0x1f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000      0x3ed C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x00000000       0xc0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .group         0x00000000        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .text          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .data          0x00000000        0x0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .rodata        0x00000000        0x4 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000      0x886 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x58 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x35 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x9c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000      0x10e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x7f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x4a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x52 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x43 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000      0x180 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000      0x29d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x16 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x29 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000      0x1f7 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0xe1 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000      0x15d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0xd2 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x1f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000      0x3ed C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0xc0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_macro   0x00000000       0x9a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .jcr           0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x0000a000         xrw
+ROM              0x08000000         0x00040000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+LOAD startup/startup_stm32.o
+LOAD startup/system_stm32f30x.o
+LOAD src/CApplication.o
+LOAD src/main.o
+LOAD C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libm.a
+START GROUP
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a
+END GROUP
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x2000a000                _estack = 0x2000a000
+                0x00000300                _Min_Heap_Size = 0x300
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 startup/startup_stm32.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x22c0
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x5c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .text          0x080001e4      0x134 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+                0x080001e4                memcpy
+ *(.text*)
+ .text.Reset_Handler
+                0x08000318       0x48 startup/startup_stm32.o
+                0x08000318                Reset_Handler
+ .text.Default_Handler
+                0x08000360        0x2 startup/startup_stm32.o
+                0x08000360                DebugMon_Handler
+                0x08000360                HardFault_Handler
+                0x08000360                SysTick_Handler
+                0x08000360                PendSV_Handler
+                0x08000360                NMI_Handler
+                0x08000360                UsageFault_Handler
+                0x08000360                Default_Handler
+                0x08000360                MemManage_Handler
+                0x08000360                SVC_Handler
+                0x08000360                BusFault_Handler
+ *fill*         0x08000362        0x2 
+ .text.SystemInit
+                0x08000364       0x74 startup/system_stm32f30x.o
+                0x08000364                SystemInit
+ .text.SetSysClock
+                0x080003d8       0xe0 startup/system_stm32f30x.o
+ .text.NVIC_SetPriority
+                0x080004b8       0x5c src/main.o
+ .text.SysTick_Config
+                0x08000514       0x50 src/main.o
+ .text._ZL12prvMainTask1Pv
+                0x08000564       0xa4 src/main.o
+ .text._ZL12prvMainTask2Pv
+                0x08000608       0xa4 src/main.o
+ .text._ZL12prvMainTask3Pv
+                0x080006ac       0xa4 src/main.o
+ .text._ZL12prvMainTask4Pv
+                0x08000750       0xa4 src/main.o
+ .text.main     0x080007f4      0x16c src/main.o
+                0x080007f4                main
+ .text._Znwj    0x08000960       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+                0x08000960                operator new(unsigned int)
+ .text._ZdlPv   0x08000978       0x14 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+                0x08000978                operator delete(void*)
+ .text._ZN5MutexC2Ev
+                0x0800098c       0x2c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+                0x0800098c                Mutex::Mutex()
+                0x0800098c                Mutex::Mutex()
+ .text._ZN5MutexD2Ev
+                0x080009b8       0x34 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+                0x080009b8                Mutex::~Mutex()
+                0x080009b8                Mutex::~Mutex()
+ .text._ZN5MutexD0Ev
+                0x080009ec       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+                0x080009ec                Mutex::~Mutex()
+ .text.xTaskGenericCreate
+                0x08000a0c      0x140 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000a0c                xTaskGenericCreate
+ .text.vTaskDelayUntil
+                0x08000b4c       0xb8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000b4c                vTaskDelayUntil
+ .text.vTaskStartScheduler
+                0x08000c04       0x60 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000c04                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x08000c64       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000c64                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x08000c80      0x100 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000c80                xTaskResumeAll
+ .text.xTaskGetTickCount
+                0x08000d80       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000d80                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x08000da0      0x160 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000da0                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x08000f00       0x8c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000f00                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x08000f8c       0x80 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08000f8c                vTaskPlaceOnEventList
+ .text.xTaskRemoveFromEventList
+                0x0800100c       0xac C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x0800100c                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x080010b8       0x2c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x080010b8                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x080010e4       0x88 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x080010e4                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x0800116c       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x0800116c                vTaskMissedYield
+ .text.prvIdleTask
+                0x08001184       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvInitialiseTCBVariables
+                0x080011a4       0xa4 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvInitialiseTaskLists
+                0x08001248       0x7c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvCheckTasksWaitingTermination
+                0x080012c4       0x74 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvAddCurrentTaskToDelayedList
+                0x08001338       0x6c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvAllocateTCBAndStack
+                0x080013a4       0x70 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvDeleteTCB
+                0x08001414       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.prvResetNextTaskUnblockTime
+                0x08001434       0x48 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .text.vTaskPriorityInherit
+                0x0800147c       0xf0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x0800147c                vTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x0800156c       0xcc C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x0800156c                xTaskPriorityDisinherit
+ .text.pvTaskIncrementMutexHeldCount
+                0x08001638       0x28 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x08001638                pvTaskIncrementMutexHeldCount
+ .text.xQueueCreateMutex
+                0x08001660       0x84 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+                0x08001660                xQueueCreateMutex
+ .text.xQueueGenericSend
+                0x080016e4      0x124 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+                0x080016e4                xQueueGenericSend
+ .text.xQueueGenericReceive
+                0x08001808      0x170 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+                0x08001808                xQueueGenericReceive
+ .text.vQueueDelete
+                0x08001978       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+                0x08001978                vQueueDelete
+ .text.prvCopyDataToQueue
+                0x08001990       0xdc C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.prvCopyDataFromQueue
+                0x08001a6c       0x4c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.prvUnlockQueue
+                0x08001ab8       0x98 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.prvIsQueueEmpty
+                0x08001b50       0x2c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.prvIsQueueFull
+                0x08001b7c       0x30 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .text.pxPortInitialiseStack
+                0x08001bac       0x58 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001bac                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x08001c04        0xc C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .text.vPortSVCHandler
+                0x08001c10       0x24 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001c10                vPortSVCHandler
+ .text.prvPortStartFirstTask
+                0x08001c34       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .text.xPortStartScheduler
+                0x08001c54       0x3c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001c54                xPortStartScheduler
+ .text.vPortYield
+                0x08001c90       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001c90                vPortYield
+ .text.vPortEnterCritical
+                0x08001cb0       0x20 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001cb0                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08001cd0       0x24 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001cd0                vPortExitCritical
+ .text.ulPortSetInterruptMask
+                0x08001cf4       0x14 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001cf4                ulPortSetInterruptMask
+ .text.vPortClearInterruptMask
+                0x08001d08        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001d08                vPortClearInterruptMask
+ .text.xPortPendSVHandler
+                0x08001d10       0x44 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001d10                xPortPendSVHandler
+ .text.xPortSysTickHandler
+                0x08001d54       0x28 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001d54                xPortSysTickHandler
+ .text.vPortSetupTimerInterrupt
+                0x08001d7c       0x24 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                0x08001d7c                vPortSetupTimerInterrupt
+ .text.vListInitialise
+                0x08001da0       0x40 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+                0x08001da0                vListInitialise
+ .text.vListInitialiseItem
+                0x08001de0       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+                0x08001de0                vListInitialiseItem
+ .text.vListInsertEnd
+                0x08001df8       0x48 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+                0x08001df8                vListInsertEnd
+ .text.vListInsert
+                0x08001e40       0x70 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+                0x08001e40                vListInsert
+ .text.uxListRemove
+                0x08001eb0       0x54 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+                0x08001eb0                uxListRemove
+ .text.pvPortMalloc
+                0x08001f04      0x11c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+                0x08001f04                pvPortMalloc
+ .text.vPortFree
+                0x08002020       0x70 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+                0x08002020                vPortFree
+ .text.prvInsertBlockIntoFreeList
+                0x08002090       0xb0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .text.vPortDefineHeapRegions
+                0x08002140      0x114 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+                0x08002140                vPortDefineHeapRegions
+ .text.__libc_init_array
+                0x08002254       0x50 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+                0x08002254                __libc_init_array
+ .text.memset   0x080022a4       0x9c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+                0x080022a4                memset
+ .text.startup.register_fini
+                0x08002340       0x14 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08002354        0xc d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                0x08002354                atexit
+ .text.__libc_fini_array
+                0x08002360       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                0x08002360                __libc_fini_array
+ .text.__register_exitproc
+                0x0800238c       0xa4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                0x0800238c                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08002430        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ *(.init)
+ .init          0x08002430        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x08002430                _init
+ .init          0x08002434        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.fini)
+ .fini          0x0800243c        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x0800243c                _fini
+ .fini          0x08002440        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x08002448                . = ALIGN (0x4)
+                0x08002448                _etext = .
+
+.vfp11_veneer   0x08002448        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08002448        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08002448        0x0
+ .iplt          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.rodata         0x08002448       0x40
+                0x08002448                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08002448       0x20 src/main.o
+ .rodata        0x08002468       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+                0x08002468                vtable for Mutex
+ .rodata        0x08002478        0x8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ *(.rodata*)
+ .rodata.str1.4
+                0x08002480        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x08002484        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x08002484                _global_impure_ptr
+                0x08002488                . = ALIGN (0x4)
+
+.rel.dyn        0x08002488        0x0
+ .rel.iplt      0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.ARM.extab      0x08002488        0x0
+                0x08002488                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08002488                . = ALIGN (0x4)
+
+.ARM            0x08002488        0x0
+                0x08002488                . = ALIGN (0x4)
+                0x08002488                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08002488                __exidx_end = .
+                0x08002488                . = ALIGN (0x4)
+
+.preinit_array  0x08002488        0x0
+                0x08002488                . = ALIGN (0x4)
+                0x08002488                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08002488                PROVIDE (__preinit_array_end, .)
+                0x08002488                . = ALIGN (0x4)
+
+.init_array     0x08002488        0x8
+                0x08002488                . = ALIGN (0x4)
+                0x08002488                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x08002488        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0800248c        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x08002490                PROVIDE (__init_array_end, .)
+                0x08002490                . = ALIGN (0x4)
+
+.fini_array     0x08002490        0x4
+                0x08002490                . = ALIGN (0x4)
+                0x08002490                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08002490        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x08002494                PROVIDE (__fini_array_end, .)
+                0x08002494                . = ALIGN (0x4)
+                0x08002494                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x450 load address 0x08002494
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x14 startup/system_stm32f30x.o
+                0x20000000                SystemCoreClock
+                0x20000004                AHBPrescTable
+ .data          0x20000014       0x10 src/main.o
+                0x20000014                xHeapRegions
+ .data          0x20000024        0x4 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ *(.data*)
+ .data.impure_data
+                0x20000028      0x428 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x20000450                . = ALIGN (0x4)
+                0x20000450                _edata = .
+
+.jcr            0x20000450        0x0 load address 0x080028e4
+ .jcr           0x20000450        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.igot.plt       0x20000450        0x0 load address 0x080028e4
+ .igot.plt      0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x20000450                . = ALIGN (0x4)
+
+.bss            0x20000450      0x138 load address 0x080028e4
+                0x20000450                _sbss = .
+                0x20000450                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000450       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .bss           0x2000046c        0x4 src/main.o
+                0x2000046c                xSemaphore
+ .bss           0x20000470      0x100 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                0x20000470                pxCurrentTCB
+ .bss           0x20000570       0x18 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ *(.bss*)
+ *(COMMON)
+                0x20000588                . = ALIGN (0x4)
+                0x20000588                _ebss = .
+                0x20000588                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000588      0x700 load address 0x080028e4
+                0x20000588                . = ALIGN (0x8)
+                0x20000588                PROVIDE (end, .)
+                0x20000588                PROVIDE (_end, .)
+                0x20000888                . = (. + _Min_Heap_Size)
+ *fill*         0x20000588      0x300 
+                0x20000c88                . = (. + _Min_Stack_Size)
+ *fill*         0x20000888      0x400 
+                0x20000c88                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x21 startup/startup_stm32.o
+ .ARM.attributes
+                0x0000006d       0x33 startup/system_stm32f30x.o
+ .ARM.attributes
+                0x000000a0       0x33 src/main.o
+ .ARM.attributes
+                0x000000d3       0x33 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .ARM.attributes
+                0x00000106       0x33 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .ARM.attributes
+                0x00000139       0x33 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .ARM.attributes
+                0x0000016c       0x33 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .ARM.attributes
+                0x0000019f       0x33 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .ARM.attributes
+                0x000001d2       0x33 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .ARM.attributes
+                0x00000205       0x33 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .ARM.attributes
+                0x00000238       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000266       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000294       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000002b0       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000002de       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000030c       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000033a       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000368       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000396       0x1e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+OUTPUT(flash.elf elf32-littlearm)
+
+.debug_line     0x00000000     0x3431
+ .debug_line    0x00000000       0x79 startup/startup_stm32.o
+ .debug_line    0x00000079      0x39c startup/system_stm32f30x.o
+ .debug_line    0x00000415      0x5db src/main.o
+ .debug_line    0x000009f0      0x4dc C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_line    0x00000ecc      0x40d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_line    0x000012d9      0xc22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_line    0x00001efb      0x77e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_line    0x00002679      0x47e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_line    0x00002af7      0x463 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_line    0x00002f5a      0x4d7 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+
+.debug_info     0x00000000     0x3e96
+ .debug_info    0x00000000       0x62 startup/startup_stm32.o
+ .debug_info    0x00000062      0x311 startup/system_stm32f30x.o
+ .debug_info    0x00000373      0xaed src/main.o
+ .debug_info    0x00000e60      0x4dd C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_info    0x0000133d      0x2b4 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_info    0x000015f1     0x156a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_info    0x00002b5b      0xb14 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_info    0x0000366f      0x23c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_info    0x000038ab      0x2a1 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_info    0x00003b4c      0x34a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+
+.debug_abbrev   0x00000000      0xe09
+ .debug_abbrev  0x00000000       0x12 startup/startup_stm32.o
+ .debug_abbrev  0x00000012      0x14a startup/system_stm32f30x.o
+ .debug_abbrev  0x0000015c      0x200 src/main.o
+ .debug_abbrev  0x0000035c      0x1af C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_abbrev  0x0000050b      0x19a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_abbrev  0x000006a5      0x279 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_abbrev  0x0000091e      0x17a C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_abbrev  0x00000a98      0x165 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_abbrev  0x00000bfd       0xc1 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_abbrev  0x00000cbe      0x14b C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+
+.debug_aranges  0x00000000      0x4d8
+ .debug_aranges
+                0x00000000       0x28 startup/startup_stm32.o
+ .debug_aranges
+                0x00000028       0x30 startup/system_stm32f30x.o
+ .debug_aranges
+                0x00000058       0x50 src/main.o
+ .debug_aranges
+                0x000000a8       0x48 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_aranges
+                0x000000f0       0x40 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_aranges
+                0x00000130      0x1b0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_aranges
+                0x000002e0       0xe8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_aranges
+                0x000003c8       0x88 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_aranges
+                0x00000450       0x40 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_aranges
+                0x00000490       0x48 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+
+.debug_ranges   0x00000000      0x440
+ .debug_ranges  0x00000000       0x20 startup/startup_stm32.o
+ .debug_ranges  0x00000020       0x20 startup/system_stm32f30x.o
+ .debug_ranges  0x00000040       0x40 src/main.o
+ .debug_ranges  0x00000080       0x38 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_ranges  0x000000b8       0x30 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_ranges  0x000000e8      0x1a0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_ranges  0x00000288       0xd8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_ranges  0x00000360       0x78 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_ranges  0x000003d8       0x30 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_ranges  0x00000408       0x38 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+
+.debug_macro    0x00000000     0xd7e5
+ .debug_macro   0x00000000       0x99 startup/system_stm32f30x.o
+ .debug_macro   0x00000099      0x886 startup/system_stm32f30x.o
+ .debug_macro   0x0000091f       0x7a startup/system_stm32f30x.o
+ .debug_macro   0x00000999       0x3b startup/system_stm32f30x.o
+ .debug_macro   0x000009d4       0x22 startup/system_stm32f30x.o
+ .debug_macro   0x000009f6       0x44 startup/system_stm32f30x.o
+ .debug_macro   0x00000a3a       0x1c startup/system_stm32f30x.o
+ .debug_macro   0x00000a56      0x1f7 startup/system_stm32f30x.o
+ .debug_macro   0x00000c4d       0x2d startup/system_stm32f30x.o
+ .debug_macro   0x00000c7a       0x26 startup/system_stm32f30x.o
+ .debug_macro   0x00000ca0      0xd39 startup/system_stm32f30x.o
+ .debug_macro   0x000019d9     0x76cc startup/system_stm32f30x.o
+ .debug_macro   0x000090a5      0x242 src/main.o
+ .debug_macro   0x000092e7       0x58 src/main.o
+ .debug_macro   0x0000933f       0x35 src/main.o
+ .debug_macro   0x00009374       0x9c src/main.o
+ .debug_macro   0x00009410       0x16 src/main.o
+ .debug_macro   0x00009426      0x10e src/main.o
+ .debug_macro   0x00009534       0x7f src/main.o
+ .debug_macro   0x000095b3       0x4a src/main.o
+ .debug_macro   0x000095fd       0x52 src/main.o
+ .debug_macro   0x0000964f       0x16 src/main.o
+ .debug_macro   0x00009665       0x43 src/main.o
+ .debug_macro   0x000096a8      0x180 src/main.o
+ .debug_macro   0x00009828      0x2b2 src/main.o
+ .debug_macro   0x00009ada       0x16 src/main.o
+ .debug_macro   0x00009af0       0x29 src/main.o
+ .debug_macro   0x00009b19       0x16 src/main.o
+ .debug_macro   0x00009b2f       0x35 src/main.o
+ .debug_macro   0x00009b64      0xd39 src/main.o
+ .debug_macro   0x0000a89d       0xe1 src/main.o
+ .debug_macro   0x0000a97e      0x15d src/main.o
+ .debug_macro   0x0000aadb       0xd2 src/main.o
+ .debug_macro   0x0000abad       0x10 src/main.o
+ .debug_macro   0x0000abbd       0x1f src/main.o
+ .debug_macro   0x0000abdc      0x3ed src/main.o
+ .debug_macro   0x0000afc9       0xc0 src/main.o
+ .debug_macro   0x0000b089       0x9a src/main.o
+ .debug_macro   0x0000b123       0xb0 src/main.o
+ .debug_macro   0x0000b1d3       0x7f src/main.o
+ .debug_macro   0x0000b252      0x127 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000b379      0x8fe C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000bc77       0xef C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000bd66      0x337 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c09d       0x9c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c139       0x8d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c1c6      0x2a4 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c46a       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c48c       0xac C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c538       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c548       0x22 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c56a       0xbd C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_macro   0x0000c627       0xd2 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x0000c6f9      0x174 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x0000c86d       0x1c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_macro   0x0000c889      0x20c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000ca95       0x9c C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000cb31      0x10e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000cc3f       0x7f C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000ccbe       0x43 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000cd01      0x29d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000cf9e       0x35 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000cfd3       0x91 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000d064       0x10 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_macro   0x0000d074      0x1d0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_macro   0x0000d244      0x157 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x0000d39b      0x166 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_macro   0x0000d501      0x15e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_macro   0x0000d65f      0x186 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+
+.debug_str      0x00000000    0x3daa7
+ .debug_str     0x00000000    0x31dec startup/system_stm32f30x.o
+                              0x31f64 (size before relaxing)
+ .debug_str     0x00031dec     0x775e src/main.o
+                              0x395b8 (size before relaxing)
+ .debug_str     0x0003954a     0x1950 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+                               0x643a (size before relaxing)
+ .debug_str     0x0003ae9a       0xf8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+                               0x6e8a (size before relaxing)
+ .debug_str     0x0003af92     0x1bed C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+                               0xa6f8 (size before relaxing)
+ .debug_str     0x0003cb7f      0x5ed C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+                               0x9cc0 (size before relaxing)
+ .debug_str     0x0003d16c      0x62e C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+                               0x6ea8 (size before relaxing)
+ .debug_str     0x0003d79a       0xa0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+                               0x84af (size before relaxing)
+ .debug_str     0x0003d83a      0x26d C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+                               0x8dc1 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 startup/system_stm32f30x.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 src/main.o
+ .comment       0x00000000       0x71 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .comment       0x00000000       0x71 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .comment       0x00000000       0x71 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .comment       0x00000000       0x71 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .comment       0x00000000       0x71 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .comment       0x00000000       0x71 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .comment       0x00000000       0x71 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+
+.debug_frame    0x00000000     0x12a4
+ .debug_frame   0x00000000       0x7c startup/system_stm32f30x.o
+ .debug_frame   0x0000007c       0xfc src/main.o
+ .debug_frame   0x00000178       0xd0 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(new.o)
+ .debug_frame   0x00000248       0xc4 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(Mutex.o)
+ .debug_frame   0x0000030c      0x754 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(tasks.o)
+ .debug_frame   0x00000a60      0x3d8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(queue.o)
+ .debug_frame   0x00000e38      0x174 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(port.o)
+ .debug_frame   0x00000fac       0xd8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(list.o)
+ .debug_frame   0x00001084       0xe8 C:\Users\Dove\STM32_libFreeRTOS\libFreeRTOS\Debug\libFreeRTOS.a(heap_5.o)
+ .debug_frame   0x0000116c       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00001198       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x000011cc       0x50 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000121c       0x20 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000123c       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001270       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
